@@ -7,7 +7,9 @@
     "hidden_nets": [
       "GND",
       "/+5V",
-      "/+3.3V"
+      "/+3.3V",
+      "AGND",
+      "IGND"
     ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -68,7 +70,7 @@
       39,
       40
     ],
-    "visible_layers": "ffdffdf_ffffffff",
+    "visible_layers": "ffdffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
